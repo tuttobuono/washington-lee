@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# I'm new to github 1
+## Obviously 2
+### But the more time you spend with it, the more sense it makes 3
 
 - Bulleted
 - List
